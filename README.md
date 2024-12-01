@@ -1,4 +1,9 @@
-# Welcome to your Expo app 👋
+# Welcome to your Weather Easy app 👋
+
+![iPhone-13-PRO-localhost (3)](https://github.com/user-attachments/assets/e1033a3c-110b-41bc-88b6-ecd6a5137a42)
+![iPhone-13-PRO-localhost (2)](https://github.com/user-attachments/assets/2be71e54-c882-4afa-a260-134e86f65810)
+![iPhone-13-PRO-localhost (1)](https://github.com/user-attachments/assets/0cc6a141-fa11-4e3a-98e1-0b6c9eb55497)
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
